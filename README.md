@@ -29,3 +29,4 @@
 - Gradle Language Support
 - Spring Boot Extension Pack
 - Remote Development
+- SonarLint

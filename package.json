@@ -3,7 +3,7 @@
     "displayName": "dev-tools-pack",
     "description": "Dev tools pack",
     "publisher": "alukart32",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "engines": {
         "vscode": "^1.54.0"
     },
@@ -46,6 +46,7 @@
         "vscjava.vscode-spring-boot-dashboard",
         "vscjava.vscode-spring-initializr",
         "ZainChen.json",
-        "ziyasal.vscode-open-in-github"
+        "ziyasal.vscode-open-in-github",
+        "sonarsource.sonarlint-vscode"
     ]
 }
