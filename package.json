@@ -3,7 +3,7 @@
     "displayName": "dev-tools-pack",
     "description": "Dev tools pack",
     "publisher": "alukart32",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "engines": {
         "vscode": "^1.54.0"
     },
@@ -38,7 +38,7 @@
         "Pivotal.vscode-concourse",
         "Pivotal.vscode-manifest-yaml",
         "Pivotal.vscode-spring-boot",
-        "redhat.java",
+        "vscjava.vscode-java-pack",
         "redhat.vscode-xml",
         "redhat.vscode-yaml",
         "shardulm94.trailing-spaces",
